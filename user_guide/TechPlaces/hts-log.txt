@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Aug 2017 22:40:20 at http://www.bdinfosys.com/demo/materialx/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.bdinfosys.com/demo/materialx/ -O1 "C:\My Web Sites\TechPlaces" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:43:36	Warning: 	File not parsed, looks like binary: www.bdinfosys.com/demo/materialx/assets/font/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 29 seconds : 88 links scanned, 87 files written (5874456 bytes overall) [5896635 bytes received at 28213 bytes/sec], 1.7 requests per connection
+(No errors, 1 warnings, 0 messages)
